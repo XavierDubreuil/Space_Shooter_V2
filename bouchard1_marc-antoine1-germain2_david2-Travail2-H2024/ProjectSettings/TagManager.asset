@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Vie
+  - Background
+  - Balle_Player
+  - Balle
+  - Ennemi
+  - LimiteCoinGauche
+  - Balle_Ennemi2
+  - LimiteCoinDroit
+  - Ennemi2
+  - HauteurMaximaleObjet
+  - HauteurMinimaleObjet
+  - Ennemi1
+  - LimiteGaucheApparitionEnnemis
+  - Background_Haut
+  - Cible_Boss
+  - Balle_Boss
+  - Ecran_Parametre
+  - BtnAttaquer
+  - Projectile
+  - WaveIndicateur
+  - joystick
+  - checkbox_modeMobile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Vie
+  - Balle
+  - Ennemi_1
+  - Ennemi_2
+  - Balle_Ennmi
+  - Background
+  - Scene
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
